@@ -1,0 +1,20 @@
+{
+    "title": "GlowBoost Vitamin C Serum",
+    "specs": {
+        "product_name": "GlowBoost Vitamin C Serum",
+        "concentration": "10% Vitamin C",
+        "skin_type": "Oily, Combination",
+        "key_ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "benefits": [
+            "Brightening",
+            "Fades dark spots"
+        ],
+        "how_to_use": "Apply 2-3 drops in the morning before sunscreen",
+        "side_effects": "Mild tingling for sensitive skin",
+        "price": "\u00e2\u201a\u00b9699"
+    },
+    "marketing_slug": "The best 10% Vitamin C solution for Oily, Combination skin."
+}

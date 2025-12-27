@@ -1,0 +1,22 @@
+{
+    "title": "Product Comparison",
+    "product_a": "GlowBoost Vitamin C Serum",
+    "product_b": "Generic Serum B",
+    "comparison_table": [
+        {
+            "feature": "Price",
+            "glowboost_value": "\u20b9699 (More Affordable)",
+            "competitor_value": "\u20b91200 (More Expensive)"
+        },
+        {
+            "feature": "Key Ingredient",
+            "glowboost_value": "10% Vitamin C, Hyaluronic Acid (Potent & Beneficial Actives)",
+            "competitor_value": "Water, Alcohol, Trace Active Ingredients (Generic & Potentially Irritating)"
+        },
+        {
+            "feature": "Safety",
+            "glowboost_value": "Clearly states 'Mild tingling for sensitive skin' (Transparent & Generally Safe)",
+            "competitor_value": "Contains 'Alcohol' (Potential for drying/irritation); Lacks specific safety disclosure"
+        }
+    ]
+}
